@@ -1,0 +1,81 @@
+### >>Status<<
+
+🟢 Green - On track to meet goals 🏝️
+
+### >>Partner Organization Name<<
+
+all-your-consult
+
+### >>Location<<
+
+London
+
+### >>Country<<
+
+United Kingdom
+
+### >>Markets/Regions Served<<
+
+Hertfordshire
+
+### >>Services Contact<<
+
+@joebloggs
+
+### >>Email Address<<
+
+user@email.com
+
+### >>Best Assigned Roles<<
+
+_No response_
+
+### >>Is this resource a Technical Trainer<<
+
+_No response_
+
+### >>Is this resource a FastTrack Consultant<<
+
+_No response_
+
+### >>SSPA Certified through Microsoft<<
+
+_No response_
+
+### >>Microsoft Partner Certified<<
+
+_No response_
+
+### >>Languages<<
+
+- [X] English
+- [X] French
+- [ ] German
+- [X] Italian
+- [ ] Spanish
+- [ ] Portuguese
+- [ ] Chinese/Mandarin or Cantonese
+- [ ] Korean
+- [ ] Japanese
+- [ ] Hindi
+- [ ] Other Languages
+
+### >>Government/Local Security Clearance<<
+
+eg. Tokyo, Japan
+
+### >>Completed Verification Workshop<<
+
+_No response_
+
+### >>Attended GitHub Technical Bootcamp<<
+
+_No response_
+
+### >>List any other GitHub Training & Enablement<<
+
+eg. Sales Training...
+
+### >>CAM GitHub Handle<<
+
+_No response_
