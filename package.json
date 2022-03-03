@@ -1,6 +1,6 @@
 {
-  "name": "issue-body-parser",
-  "version": "2.0.0",
+  "name": "pr-issue-body-parser",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peter-murray/issue-forms-body-parser.git"
+    "url": "git+https://github.com/DharmeshPandav/pr-issue-forms-body-parser.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peter-murray/issue-forms-body-parser/issues"
+    "url": "https://github.com/DharmeshPandav/pr-issue-forms-body-parser/issues"
   },
-  "homepage": "https://github.com/peter-murray/issue-forms-body-parser#readme",
+  "homepage": "https://github.com/DharmeshPandav/pr-issue-forms-body-parser#readme",
   "dependencies": {
     "@actions/core": "^1.5.0",
     "@actions/github": "^4.0.0"
